@@ -2,7 +2,6 @@
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/khaledamerrr/)
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-00acee?style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/KhaledAmeerr)
-[![Gmail Badge](https://img.shields.io/badge/-Gmail-ff0000?style=flat-square&logo=gmail&logoColor=white)](k.tayseer.amer@gmail.com)
 [![Telegram Badge](https://img.shields.io/badge/-Telegram-0088cc?style=flat-square&logo=Telegram&logoColor=white)](https://t.me/+Xr4L6flJ3bY4ZDA0)
 
 ## 👩‍💻 About me
