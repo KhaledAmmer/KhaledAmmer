@@ -48,7 +48,7 @@ I am a Passionate, Self-Motivated, Adaptable, and Hard Working Full Stack Develo
 
 
 ## 🖥️ Workspace Setup
-![android-studio](https://img.shields.io/badge/android%20Studio-000000?style=for-the-badge&logo=android-studio&logoColor=white)
+![android-studio](https://img.shields.io/badge/android%20Studio-009555?style=for-the-badge&logo=android-studio&logoColor=white)
 ![vs-code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=Visual-Studio-Code&logoColor=white)
 
 
