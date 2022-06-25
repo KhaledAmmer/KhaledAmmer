@@ -50,6 +50,7 @@ I am a Passionate, Self-Motivated, Adaptable, and Hard Working Full Stack Develo
 ![vs-code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=Visual-Studio-Code&logoColor=white)
 
 
+[![Top Langs](https://github-readme-stats.vercel.app/api?username=khaledammer&theme=dracula%22%20width=%2262%)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
