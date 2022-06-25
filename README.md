@@ -17,7 +17,7 @@ I am a Passionate, Self-Motivated, Adaptable, and Hard Working Full Stack Develo
 * <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/LinkedIn_icon_circle.svg/2048px-LinkedIn_icon_circle.svg.png" width="16" /> &nbsp;&nbsp; on [LinkedIn](https://www.linkedin.com/in/khaledamerrr/).
 <br>
  
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Khaled Amer&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KhaledAmmer&layout=compact)](https://github.com/KhaledAmmer/github-readme-stats)
 
 
 
