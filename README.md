@@ -14,13 +14,10 @@ I am a Passionate, Self-Motivated, Adaptable, and Hard Working Full Stack Develo
 * 📱 Mobile & Web developer
 * <img src="https://github.com/Gapur/Gapur/blob/main/assets/letterbox.gif?raw=true" width="21" />&nbsp;&nbsp; How to reach me: k.tayseer.amer@gmail.com;
 * <img src="https://static.vecteezy.com/system/resources/previews/002/534/045/original/social-media-twitter-logo-blue-isolated-free-vector.jpg" width="21" />&nbsp;&nbsp; Follow me on [Twitter](https://twitter.com/KhaledAmeerr).
-* &nbsp;&nbsp; on [LinkedIn](https://www.linkedin.com/in/khaledamerrr/).
+* <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/LinkedIn_icon_circle.svg/2048px-LinkedIn_icon_circle.svg.png" width="21" /> &nbsp;&nbsp; on [LinkedIn](https://www.linkedin.com/in/khaledamerrr/).
 <br>
-
-
-<img align="right" alt="GIF" src="https://github.com/Gapur/Gapur/blob/main/assets/coding.gif?raw=true" width="408" height="318" />
   
-</br>
+
 
 
 
