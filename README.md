@@ -37,7 +37,9 @@ I am a Passionate, Self-Motivated, Adaptable, and Hard Working Full Stack Develo
 ![flutter](https://img.shields.io/badge/Flutter-28B6F6?style=for-the-badge&logo=flutter&logoColor=white)
 
 ### Backend Development 
-![Express JS](https://img.shields.io/badge/express-000000?style=for-the-badge&logo=express&logoColor=white)
+![Express Js](https://img.shields.io/badge/express-000000?style=for-the-badge&logo=express&logoColor=white)
+![Node.Js](https://img.shields.io/badge/Node-000000?style=for-the-badge&logo=node.js&logoColor=white)
+
 
 ### Backend as a Service (BaaS)
 ![firebase](https://img.shields.io/badge/Firebase-ffaa00?style=for-the-badge&logo=Firebase&logoColor=white)
