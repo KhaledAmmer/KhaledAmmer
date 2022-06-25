@@ -49,11 +49,12 @@ I am a Passionate, Self-Motivated, Adaptable, and Hard Working Full Stack Develo
 ![android-studio](https://img.shields.io/badge/android%20Studio-009555?style=for-the-badge&logo=android-studio&logoColor=white)
 ![vs-code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=Visual-Studio-Code&logoColor=white)
 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=khaledammera&repo=MERAKI_Academy_Project_5-1)](https://github.com/KhaledAmmer/MERAKI_Academy_Project_5-1)
+
 
 [![Top Langs](https://github-readme-stats.vercel.app/api?username=khaledammer&theme=dark%22%20width=%2262%)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=khaledammer&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
