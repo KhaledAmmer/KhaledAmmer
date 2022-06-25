@@ -4,14 +4,11 @@
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-00acee?style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/KhaledAmeerr)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-ff0000?style=flat-square&logo=gmail&logoColor=white)](k.tayseer.amer@gmail.com)
 [![Telegram Badge](https://img.shields.io/badge/-Telegram-0088cc?style=flat-square&logo=Telegram&logoColor=white)](https://t.me/+Xr4L6flJ3bY4ZDA0)
-
-<br>
-
+<hr/>
 ## 👩‍💻 About me
 I am a Passionate, Self-Motivated, Adaptable, and Hard Working Full Stack Developer (specializing in React and Flutter Applications ) and  who works on both client and server sides and enjoys building websites and mobile applications with strong design and analytical skills.
 <br/>
 * <img width="16" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Nuvola_Jordan_flag.svg/1024px-Nuvola_Jordan_flag.svg.png" alt="Jordan" /> I'm full stack developer from Jordan
-*  <img width="16" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Nuvola_Jordan_flag.svg/1024px-Nuvola_Jordan_flag.svg.png" alt="Jordan" />   I’m currently working on something cool;
 * <img width="16" src="https://about.gitlab.com/images/blogimages/GitLab-Dev.png" alt="" /> Love Programming and problems solving
 * 👩‍🏫I’m currently learning Data Structures and Algorithms
 * 📱 Mobile & Web developer
