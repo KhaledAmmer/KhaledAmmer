@@ -16,8 +16,8 @@ I am a Passionate, Self-Motivated, Adaptable, and Hard Working Full Stack Develo
 * <img src="https://static.vecteezy.com/system/resources/previews/002/534/045/original/social-media-twitter-logo-blue-isolated-free-vector.jpg" width="16" />&nbsp;&nbsp; Follow me on [Twitter](https://twitter.com/KhaledAmeerr).
 * <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/LinkedIn_icon_circle.svg/2048px-LinkedIn_icon_circle.svg.png" width="16" /> &nbsp;&nbsp; on [LinkedIn](https://www.linkedin.com/in/khaledamerrr/).
 <br>
-  
-
+ 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
