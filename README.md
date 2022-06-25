@@ -17,8 +17,40 @@ I am a Passionate, Self-Motivated, Adaptable, and Hard Working Full Stack Develo
 * <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/LinkedIn_icon_circle.svg/2048px-LinkedIn_icon_circle.svg.png" width="16" /> &nbsp;&nbsp; on [LinkedIn](https://www.linkedin.com/in/khaledamerrr/).
 <br>
  
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=khaledammer&show_icons=true)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=khaledammer)](https://github.com/anuraghazra/github-readme-stats)
+## 🛠️ Skills
+
+### Languages
+
+![Java](https://img.shields.io/badge/Java-000000?style=for-the-badge&logo=java&logoColor=white)
+![javascript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![dart](https://img.shields.io/badge/Dart-28B6F6?style=for-the-badge&logo=dart&logoColor=white)
+
+### Front-End Development
+![react](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)
+![react-router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white)
+![material-ui](https://img.shields.io/badge/Material_UI-0081CB?style=for-the-badge&logo=mui&logoColor=white)
+![html](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![css](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![jquery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)
+![dart](https://img.shields.io/badge/Dart-28B6F6?style=for-the-badge&logo=dart&logoColor=white)
+
+### Cross Platform Development
+
+![flutter](https://img.shields.io/badge/Flutter-28B6F6?style=for-the-badge&logo=flutter&logoColor=white)
+
+### Backend Development 
+![Express JS](https://img.shields.io/badge/express-000000?style=for-the-badge&logo=express&logoColor=white)
+
+### Backend as a Service (BaaS)
+![firebase](https://img.shields.io/badge/Firebase-ffaa00?style=for-the-badge&logo=Firebase&logoColor=white)
+![heroku](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)
+
+
+## 🖥️ Workspace Setup
+![android-studio](https://img.shields.io/badge/android%20Studio-000000?style=for-the-badge&logo=android-studio&logoColor=white)
+![vs-code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=Visual-Studio-Code&logoColor=white)
+
 
 
 
