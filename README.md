@@ -45,6 +45,9 @@ I am a Passionate, Self-Motivated, Adaptable, and Hard Working Full Stack Develo
 ![firebase](https://img.shields.io/badge/Firebase-ffaa00?style=for-the-badge&logo=Firebase&logoColor=white)
 ![heroku](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)
 
+### Database Mangement System 
+![Mongo DB](https://img.shields.io/badge/mongoDB-12c700?style=for-the-badge&logo=mongoDB&logoColor=61DAFB)
+![MySQL]https://img.shields.io/badge/MySQL-213421?style=for-the-badge&logo=mysql&logoColor=61DAFB)
 
 ## 🖥️ Workspace Setup
 ![android-studio](https://img.shields.io/badge/android%20Studio-009555?style=for-the-badge&logo=android-studio&logoColor=white)
@@ -54,7 +57,7 @@ I am a Passionate, Self-Motivated, Adaptable, and Hard Working Full Stack Develo
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api?username=khaledammer&theme=dark%22%20width=%2262%)](https://github.com/anuraghazra/github-readme-stats)
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=khaledammer)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
