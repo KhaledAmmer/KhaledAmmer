@@ -47,7 +47,7 @@ I am a Passionate, Self-Motivated, Adaptable, and Hard Working Full Stack Develo
 
 ### Database Mangement System 
 ![Mongo DB](https://img.shields.io/badge/mongoDB-12c700?style=for-the-badge&logo=mongoDB&logoColor=61DAFB)
-![MySQL]https://img.shields.io/badge/MySQL-213421?style=for-the-badge&logo=mysql&logoColor=61DAFB)
+![MySQL](https://img.shields.io/badge/MySQL-213421?style=for-the-badge&logo=mysql&logoColor=61DAFB)
 
 ## 🖥️ Workspace Setup
 ![android-studio](https://img.shields.io/badge/android%20Studio-009555?style=for-the-badge&logo=android-studio&logoColor=white)
